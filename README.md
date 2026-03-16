@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://x.com/Sanjayvaishya_" target="blank"><img src="https://img.shields.io/twitter/follow/Sanjayvaishya_?logo=twitter&style=for-the-badge" alt="Sanjayvaishya_"  </p>
 
-- 🔭 I’m currently working on **India Cyber Cafe**
+- 🔭 I’m currently working on **India Cyber Cafe Company**
 
 - 🌱 I’m currently learning **'Java and Modern CSS'**
 
